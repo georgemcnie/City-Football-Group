@@ -1,4 +1,4 @@
-# City-Football-Group
+# Masters Project: Analysing the Loan Market for City Football Group
 
 ### Note
 Due to a Non-Disclosure Agreement (NDA) signed at the outset of the project with City Football Group (CFG), all outcomes, including the code, results, and resources, are owned by CFG and cannot be shared. However, I am able to provide an in-depth explanation of the technical processes employed and how they addressed the challenges set by CFG.  
