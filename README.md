@@ -11,9 +11,11 @@ This project was completed in collaboration with my lab partner, with regular we
 
 ### Key technical highlights
 
-- Manipulating large datasets using Pandas and some SQL
-- Network analysis
-  - visualisation using Pyvis library
-  - community analysis
-  - GNN
-- Supervised Machine Learning
+- Manipulated large datasets using Pandas and SQL for data cleaning and preparation
+- Performed network analysis, including:
+  - Visualization with the Pyvis library
+  - Community detection and analysis
+  - Graph Neural Networks (GNN)
+- Applied supervised machine learning techniques to model outcomes
+- Worked within the Azure framework for cloud-based analysis
+- Visualized data effectively using Matplotlib
